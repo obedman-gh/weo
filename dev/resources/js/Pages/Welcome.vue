@@ -6,7 +6,7 @@ import { Flower2, ArrowUpRight } from "lucide-vue-next";
     <Head title="Wedding Organizer Workspace" />
     <main class="welcome">
         <nav>
-            <span class="brand"><Flower2 /><span>weo.</span></span
+            <span class="brand"><Flower2 /><span>weo </span></span
             ><Link href="/login" class="button secondary"
                 >Masuk workspace <ArrowUpRight :size="17"
             /></Link>

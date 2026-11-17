@@ -9,7 +9,7 @@ const form = useForm({ email: "", password: "" });
         <section class="login-story">
             <Link href="/" class="brand"
                 ><Flower2 :size="34" /><span
-                    >weo - wedding event organizer <small>WEDDING WORKSPACE</small></span
+                    >weo <small>WEDDING WORKSPACE</small></span
                 ></Link
             >
             <div>
@@ -24,7 +24,7 @@ const form = useForm({ email: "", password: "" });
                     keputusan, dan semua orang yang berperan.
                 </p>
             </div>
-            <small>TERENCANA BAIK. DIRAYAKAN SEPENUH HATI.</small>
+            <small>TERENCANA DENGAN BAIK. DIRAYAKAN DENGAN SEPENUH HATI.</small>
             <div class="botanical">✳</div>
         </section>
         <section class="login-form">
