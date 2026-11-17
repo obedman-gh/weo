@@ -9,7 +9,7 @@ const form = useForm({ email: "", password: "" });
         <section class="login-story">
             <Link href="/" class="brand"
                 ><Flower2 :size="34" /><span
-                    >weo.<small>WEDDING WORKSPACE</small></span
+                    >weo - wedding event organizer <small>WEDDING WORKSPACE</small></span
                 ></Link
             >
             <div>
